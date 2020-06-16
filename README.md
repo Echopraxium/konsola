@@ -1,0 +1,2 @@
+# konsola
+color + debug console
