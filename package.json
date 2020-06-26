@@ -1,6 +1,6 @@
 {
   "name": "konsola",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "color + debug console",
   "main": "index.js",
   "scripts": {
